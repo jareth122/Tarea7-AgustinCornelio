@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peli>
+    <head>
+        <tittle>Las mejores peliculas</tittle>
+    </head>
+    <body>
+         <id category="PELICULA">         
+                <nombre lang="es">365 DIAS</nombre>      
+            <detalles>
+                    <director>ENRIQUE MESA</director>
+                    <categoria>ROMANCE</categoria> 
+                     <duracion>1H 30MIN</duracion>    
+            </detalles>
+                <año> 2023</año>
+         </id>
+
+        <id category="PELICULA">         
+                <nombre lang="es">ROMA</nombre>      
+            <detalles>
+                    <director>MARIO REYNA</director>
+                    <categoria>DRAMA</categoria> 
+                     <duracion>1H 40MIN</duracion>    
+            </detalles>
+                <año> 2022</año>
+         </id>
+
+         <id category="PELICULA">         
+                <nombre lang="es">OSCURIDAD</nombre>      
+            <detalles>
+                    <director>LUIS MENDEZ</director>
+                    <categoria>TERROR</categoria> 
+                     <duracion>1H 10MIN</duracion>    
+            </detalles>
+                <año> 2023</año>
+         </id>
+
+         <id category="PELICULA">         
+                <nombre lang="es">NO MANCHES FRIDA</nombre>      
+            <detalles>
+                    <director>MARIO LOPEZ</director>
+                    <categoria>COMEDIA</categoria> 
+                     <duracion>1H 50MIN</duracion>    
+            </detalles>
+                <año> 2019</año>
+         </id>
+
+        <dateline>
+            <date>10/11/2022</date>
+        </dateline>
+    </body>
+</peli>

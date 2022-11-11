@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Computo>
+    <head>
+        <tittle>Los 3 mejores animes de mi vida</tittle>
+    </head>
+    <body>
+         <id category="LAP">         
+                <marca lang="es">HP</marca>         
+            <caracteristicas>
+                    <modelo>Espiron E</modelo>
+                    <precio>8,000</precio>         
+            </caracteristicas>
+                <garantia>1 Año</garantia>
+         </id>
+
+          <id category="LAP">         
+                <marca lang="es">DELL</marca>         
+            <caracteristicas>
+                    <modelo>BOOK T8</modelo>
+                    <precio>12,100</precio>         
+            </caracteristicas>
+                <garantia>2 AñoS</garantia>
+         </id>
+      
+       <id category="LAP">         
+            <marca lang="es">SONY</marca>         
+            <caracteristicas>
+                    <modelo>STR 500</modelo>
+                    <precio>15,999</precio>         
+            </caracteristicas>
+                <garantia>3 AñoS</garantia>
+         </id>
+
+        <id category="LAP">         
+            <marca lang="es">DELL</marca>         
+            <caracteristicas>
+                    <modelo>NAVIO T80</modelo>
+                    <precio>11,999</precio>         
+            </caracteristicas>
+                <garantia>2 AñoS</garantia>
+         </id>
+
+
+        <dateline>
+            <date>9/11/2022</date>
+        </dateline>
+    </body>
+</Computo>
